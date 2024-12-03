@@ -7,7 +7,7 @@ room(6,35).
 room(7,30).
 room(8,30).
 room(9,30).
-room(10,30)
+room(10,30).
 room(11,28).
 room(12,28).
 room(13,26).

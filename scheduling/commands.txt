@@ -1,0 +1,11 @@
+cd path\RCSR2\scheduling
+clingo_win.exe -> path\to\.vscode\extensions\ffrankreiter.answer-set-programming-language-support-0.7.1\clingo_win.exe (can get from running the extension)
+clingo_win.exe solutions\scheduling1.lp data\leiData.txt data\testDates.txt data\prefs.txt
+
+
+-------------------Joana-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-----Torre----
+cd "c:\Users\Joany\Desktop\Uni\5ano\Masters_5th_year_1sem\1sem\RCSR\RCSR2\scheduling"
+c:\Users\Joany\.vscode\extensions\ffrankreiter.answer-set-programming-language-support-0.7.1\clingo_win.exe solutions\scheduling1.lp data\leiData.txt data\testDates.txt data\prefs.txt
+
+------------------Tomas--------------------------------------------------------------------------------------------------------------------------------------------------------------------
